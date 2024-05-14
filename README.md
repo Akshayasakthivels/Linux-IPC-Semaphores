@@ -177,12 +177,14 @@ return 0;}
  
 ## OUTPUT
 $ ./sem.o 
-![image](https://github.com/Akshayasakthivels/Linux-IPC-Semaphores/assets/144870561/f1ddb8b7-6e07-403e-9864-39aeacd729f5)
+![image](https://github.com/Akshayasakthivels/Linux-IPC-Semaphores/assets/144870561/cea4ce1e-95fa-4eca-9102-c16cb621a787)
+
 
 
 $ ipcs
 
-![image](https://github.com/Akshayasakthivels/Linux-IPC-Semaphores/assets/144870561/0bbc4929-a533-469d-b08b-251ccde1ec03)
+![image](https://github.com/Akshayasakthivels/Linux-IPC-Semaphores/assets/144870561/b6efd695-4ecf-40ad-b9ae-42ff37af7789)
+
 
 
 
